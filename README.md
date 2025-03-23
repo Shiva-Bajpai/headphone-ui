@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://headphones-fv.netlify.app" target="_blank">
+    <a href="https://shiva-bajpai.github.io/headphone-ui" target="_blank">
       <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Headphone Shop</h3>
